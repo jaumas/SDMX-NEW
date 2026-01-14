@@ -1,4 +1,4 @@
-Sdmx Connectors New 2026 UPDATE
+Sdmx Connectors New 2026 UPDATE from sdw-wsrest.ecb.europa.eu to data-api.ecb.europa.eu
 ====
 
 Setup and Configuration: [SDMX wiki](https://github.com/amattioc/SDMX/wiki)<br> 
